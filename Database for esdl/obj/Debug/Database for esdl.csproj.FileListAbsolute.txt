@@ -1,0 +1,22 @@
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\bin\Debug\Database for esdl.exe.config
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\bin\Debug\Database for esdl.exe
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\bin\Debug\Database for esdl.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\bin\Debug\MySql.Data.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\bin\Debug\MySql.Data.xml
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Books.g.cs
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Students.g.cs
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\login.g.cs
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\MainWindow.g.cs
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\App.g.cs
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl_MarkupCompile.cache
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl_MarkupCompile.lref
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Books.baml
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Students.baml
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\login.baml
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\MainWindow.baml
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl.g.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database_for_esdl.Properties.Resources.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl.csproj.GenerateResource.Cache
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl.exe
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Database for esdl\Database for esdl\obj\Debug\Database for esdl.csprojResolveAssemblyReference.cache
